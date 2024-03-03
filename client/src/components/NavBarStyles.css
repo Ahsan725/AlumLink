@@ -23,7 +23,7 @@
   left: 50%;
   transform: translateX(-50%);
   color: #fff;
-  z-index: 100; /* I did this to ensure the navbar is above other elements */
+  z-index: 100000; /* I did this to ensure the navbar is above other elements */
   margin-top: 30px;
 }
 
